@@ -34,4 +34,4 @@ You can click the Preview link to take a look at your changes.
 
 </br>
 
-[![Supritha's GitHub stats](https://github-readme-stats.vercel.app/api?username=suprithars111)](https://github.com/suprithars111/github-readme-stats)
+[![Supritha R S's GitHub stats](https://github-readme-stats.vercel.app/api?username=suprithars111)](https://github.com/suprithars111/github-readme-stats)
