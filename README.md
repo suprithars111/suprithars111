@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Supritha R S
-- 
+- 👋 Hi, I’m Supritha R S 
 <!---
 suprithars111/suprithars111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -28,8 +27,6 @@ You can click the Preview link to take a look at your changes.
 <img align = "left" alt="GIT" width= "26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 
 </br>
-</br>
-
 
 [twitter] : https://twitter.com/supritha_r_s
 [linkedin] : https://linkedin.com/in/supritha-r-s
