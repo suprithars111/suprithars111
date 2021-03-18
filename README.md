@@ -27,12 +27,6 @@ You can click the Preview link to take a look at your changes.
 
 </br>
 
-[twitter] : https://twitter.com/supritha_r_s
-[linkedin] : https://linkedin.com/in/supritha-r-s
-[stackoverflow] : https://stackoverflow.com/users/13930462/supritha-r-s
-
-</br>
-
 [![Supritha's GitHub stats](https://github-readme-stats.vercel.app/api?username=suprithars111)](https://github.com/suprithars111/github-readme-stats)
 </br>
 
