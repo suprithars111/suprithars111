@@ -7,9 +7,9 @@ You can click the Preview link to take a look at your changes.
 
 ### Connect with me:
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /> [https://twitter.com/supritha_r_s]
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /> [https://linkedin.com/in/supritha-r-s]
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/stackoverflow.svg" /> [https://stackoverflow.com/users/13930462/supritha-r-s]
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /> https://twitter.com/supritha_r_s
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /> https://linkedin.com/in/supritha-r-s
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/stackoverflow.svg" /> https://stackoverflow.com/users/13930462/supritha-r-s
 
 </br>
 
