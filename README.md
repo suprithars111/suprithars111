@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 [stackoverflow] : https://stackoverflow.com/users/13930462/supritha-r-s
 
 </br>
-[![Supritha R S's GitHub stats](https://github-readme-stats.vercel.app/api?username=suprithars111&hide=stars)](https://github.com/suprithars111/github-readme-stats)
+[![Supritha R S's GitHub stats](https://github-readme-stats.vercel.app/api?username=suprithars111)](https://github.com/suprithars111/github-readme-stats)
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suprithars111&layout=compact)](https://github.com/suprithars111/github-readme-stats)
